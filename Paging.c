@@ -1,6 +1,4 @@
 #include<stdio.h>
- 
- 
 void main()
 {
     int memsize = 15;
