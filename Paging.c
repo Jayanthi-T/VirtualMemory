@@ -1,9 +1,9 @@
 #include<stdio.h>
 void main()
-{
-    int memsize = 15;
+{ 
+    int memsize = 15; 
     int pagesize,noofpage;
-    int p[100];
+    int p[100]; 
     int frameno,offset,phyadd,i,choice = 0,pageno;
     printf("Your memory size is : %d\n",memsize);
     printf("Enter page size: ");
