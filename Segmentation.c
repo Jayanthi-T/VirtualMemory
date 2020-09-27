@@ -5,9 +5,9 @@ int main()
     int a[10][10],b[100],i,j,n,x,base,size,seg,off;
     printf("Enter the segments count\n");
     scanf("%d",&n);
-    for (i=0;i<n;i++)
-    {
-        printf("Enter the %d size\n",i+1);
+    for (i=0;i<n;i++) 
+    { 
+        printf("Enter the %d size\n",i+1); 
         scanf("%d",&size);
         a[i][0]=size;
         printf("Enter the base address:\n");
