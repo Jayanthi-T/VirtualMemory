@@ -1,11 +1,11 @@
 #include<stdio.h>
  
 int main()
-{
+{ 
     int a[10][10],b[100],i,j,n,x,base,size,seg,off;
-    printf("Enter the segments count\n");
+    printf("Enter the segments count\n"); 
     scanf("%d",&n);
-    for (i=0;i<n;i++) 
+    for (i=0;i<n;i++)
     { 
         printf("Enter the %d size\n",i+1); 
         scanf("%d",&size);
