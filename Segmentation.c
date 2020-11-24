@@ -15,7 +15,7 @@ int main()
         for(j=0;j<size;j++)
         { 
             x=0;
-            scanf("%d",&x); 
+            scanf("%d",&x);  
             base ++;
             b[base]=x;
         }
