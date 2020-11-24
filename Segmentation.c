@@ -19,7 +19,7 @@ int main()
             base ++;
             b[base]=x;
         }
-    }
+    } 
     printf("Enter the segment number and the offset value\n");   //To map the segment in the segment table
     scanf("%d %d",&seg,&off);
     if(off<a[seg][0])
