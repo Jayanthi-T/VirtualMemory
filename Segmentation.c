@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> 
 int main()
 { 
     int a[10][10],b[100],i,j,n,x,base,size,seg,off;
