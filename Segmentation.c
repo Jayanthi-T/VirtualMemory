@@ -32,7 +32,6 @@ int main()
     else
         printf("Error in locating");
     return 0;
- 
 }
 
 
