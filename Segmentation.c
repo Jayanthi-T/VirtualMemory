@@ -30,7 +30,7 @@ int main()
         printf("The element %d is at %d ",b[abs+1],abs);
     }
     else
-        printf("Eroor in locating");
+        printf("Error in locating");
     return 0;
  
 }
