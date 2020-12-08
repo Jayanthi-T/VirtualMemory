@@ -10,7 +10,7 @@ int main()
         scanf("%d",&size); 
         a[i][0]=size; 
         printf("Enter the base address:\n");
-        scanf("%d",&base);
+        scanf("%d",&base); 
         a[i][1]=base; 
         for(j=0;j<size;j++)
         { 
