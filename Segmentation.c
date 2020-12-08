@@ -8,7 +8,7 @@ int main()
     {  
         printf("Enter the %d size: \n",i+1); 
         scanf("%d",&size); 
-        a[i][0]=size;
+        a[i][0]=size; 
         printf("Enter the base address:\n");
         scanf("%d",&base);
         a[i][1]=base;
